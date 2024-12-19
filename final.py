@@ -231,8 +231,8 @@ def create_conversation(model_name):
     groq_chat = ChatGroq(
         groq_api_key=groq_api_key,
         model_name=model_name,
-        temperature=0.7,
-        max_tokens=6000
+        temperature=1,
+        max_tokens=3000
     )
     
     prompt = PromptTemplate(
