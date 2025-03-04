@@ -1,5 +1,7 @@
 # Healthify - AI-Powered Mental Health Support Platform 🧠
 
+Try it live: [Healthify Live Demo](https://healthify-final-project.streamlit.app/)
+
 Healthify is an interactive mental health support chatbot built with Streamlit and powered by the Groq AI platform. It provides users with empathetic conversations, emotional support, and mental health resources in a secure and private environment.
 
 ## 🌟 Features
